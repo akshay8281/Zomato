@@ -1,0 +1,11 @@
+{
+  "liveServer.settings.port": 5502,
+  "explorer.confirmDragAndDrop": true,
+  "workbench.editor.splitOnDragAndDrop": true,
+  "editor.dropIntoEditor.enabled": true,
+  "editor.dragAndDrop": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
